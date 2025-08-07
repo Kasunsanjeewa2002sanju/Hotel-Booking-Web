@@ -30,7 +30,6 @@
 | Deployment    | GitHub Pages / Netlify *(future scope)*
 
 > ⚙️ Backend, database, and API integration will be handled using:
-> - **Node.js**, **Express.js** for server-side logic
 
 ---
 
