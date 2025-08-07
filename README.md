@@ -29,9 +29,6 @@
 | Animations    | **Framer Motion** (if used) |
 | Deployment    | GitHub Pages / Netlify *(future scope)*
 
-> ⚙️ Backend, database, and API integration will be handled using:
-
----
 
 ---📌 Project Status---
 ✅ Frontend: Completed
